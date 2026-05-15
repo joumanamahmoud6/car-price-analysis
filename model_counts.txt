@@ -1,0 +1,146 @@
+model
+1 Series                 1886
+2 Series                 1172
+3 Series                 2312
+4 Series                  946
+5 Series                  998
+6 Series                  102
+7 Series                  101
+8 Series                   34
+A1                       1285
+A2                          1
+A3                       1847
+A4                       1316
+A5                        838
+A6                        709
+A7                        116
+A8                        111
+Accent                      1
+Amarok                    104
+Amica                       1
+Arteon                    235
+Auris                     681
+Avensis                   110
+Aygo                     1862
+B-MAX                     331
+Beetle                     80
+C-HR                      449
+C-MAX                     515
+CC                         90
+Caddy                       5
+Caddy Life                  8
+Caddy Maxi                  4
+Caddy Maxi Life            57
+California                 15
+Camry                      11
+Caravelle                  98
+Citigo                    446
+Corolla                   253
+EcoSport                 1088
+Edge                      199
+Eos                         7
+Escort                      1
+Fabia                    1504
+Fiesta                   6225
+Focus                    4348
+Fox                         4
+Fusion                     15
+GT86                       70
+Galaxy                    218
+Getz                        6
+Golf                     4609
+Golf SV                   246
+Grand C-MAX               235
+Grand Tourneo Connect      57
+Hilux                      81
+I10                      1033
+I20                       475
+I30                       511
+I40                       119
+I800                      110
+IQ                          7
+IX20                      199
+IX35                      114
+Ioniq                     267
+Jetta                      29
+KA                        187
+Ka+                       501
+Kamiq                     132
+Karoq                     371
+Kodiaq                    442
+Kona                      315
+Kuga                     2120
+Land Cruiser               50
+M2                         21
+M3                         25
+M4                        120
+M5                         27
+M6                          7
+Mondeo                    497
+Mustang                    55
+Octavia                  1383
+PROACE VERSO               14
+Passat                    868
+Polo                     3126
+Prius                     223
+Puma                       73
+Q2                        787
+Q3                       1352
+Q5                        836
+Q7                        378
+Q8                         62
+R8                         27
+RAV4                      455
+RS3                        29
+RS4                        31
+RS5                        25
+RS6                        37
+RS7                         1
+Ranger                      1
+Rapid                     141
+Roomster                   17
+S-MAX                     284
+S3                         18
+S4                         12
+S5                          2
+S8                          4
+SQ5                        15
+SQ7                         8
+Santa Fe                  236
+Scala                     186
+Scirocco                  228
+Sharan                    249
+Shuttle                    55
+Streetka                    2
+Superb                    748
+Supra                      12
+T-Cross                   281
+T-Roc                     685
+TT                        316
+Terracan                    2
+Tiguan                   1696
+Tiguan Allspace            88
+Touareg                   338
+Touran                    327
+Tourneo Connect            32
+Tourneo Custom             67
+Tucson                   1242
+Up                        840
+Urban Cruiser               4
+Veloster                    3
+Verso                     111
+Verso-S                     3
+X1                        770
+X2                        272
+X3                        517
+X4                        171
+X5                        448
+X6                        103
+X7                         52
+Yaris                    2015
+Yeti                      126
+Yeti Outdoor              439
+Z3                          6
+Z4                        102
+i3                         41
+i8                         15
